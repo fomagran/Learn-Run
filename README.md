@@ -7,3 +7,5 @@
 # Computer Science
 
  - [SOLID 원칙이란?](https://fomaios.tistory.com/entry/CS-%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4%EB%9E%80-featiOS-%EA%B0%9C%EB%B0%9C%EC%9E%90)  
+
+ - [프로세스와 쓰레드의 차이](https://fomaios.tistory.com/entry/CS-%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%93%B0%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4Process-Thread)  
