@@ -1,6 +1,6 @@
 # 블로그 정리
 
-- [Foma' iOS 블로그 정리](https://gist.github.com/fomagran/a0f8caee5d80bda72f9e576aadec0251)  
+- [Fomagran 블로그 정리](https://gist.github.com/fomagran/a0f8caee5d80bda72f9e576aadec0251)  
 
 # 알고리즘 풀이
 
