@@ -280,6 +280,8 @@
 
 # 📱 React Native
 
+- [실시간 채팅앱 만들어보기 2 - Websocket 이용하여 프론트 구현하기 (Build a real-time chatapp 1 - Implement frontend with websocket)](https://fomaios.tistory.com/entry/React-Native-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B1%84%ED%8C%85%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-Websocket-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Build-a-real-time-chatapp-1-Implement-frontend-with-websocket)
+
 - [React Native + Node.js + MySQL To do list 만들기 5 - Axios 이용하여 CRUD 구현하기 (Implementing a api with Axios)](https://fomaios.tistory.com/entry/React-Native-React-Native-Nodejs-MySQL-To-do-list-%EB%A7%8C%EB%93%A4%EA%B8%B0-5-Axios-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Implementing-a-api-with-Axios)
 
 - [함수형 컴포넌트 props 데이터에 따라 업데이트 해주기(Functional Component update on props change)](https://fomaios.tistory.com/entry/React-Native-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-props-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%B4%EC%A3%BC%EA%B8%B0Functional-Component-update-on-props-change)
@@ -338,6 +340,8 @@
 - [CSS란? (feat. 구문 작성하는 방법)](https://fomaios.tistory.com/entry/CSS-CSS%EB%9E%80-feat-%EA%B5%AC%EB%AC%B8-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95?category=957459)   
 
 # 🦠 Node.js
+
+- [실시간 채팅앱 만들어보기 1 - Websocket 이용하여 백엔드 구현하기 (feat. Websocket) (Build a real-time chatapp 1 - Implement backend with websocket)](https://fomaios.tistory.com/entry/Nodejs-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B1%84%ED%8C%85%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-Websocket-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-feat-Websocket-Build-a-real-time-chatapp-1-Implement-backend-with-websocket)
 
 - [React Native + Node.js + MySQL To do list 만들기 4 - Express로 CRUD 구현하기 (Building a CRUD API with Express)](https://fomaios.tistory.com/entry/Nodejs-React-Native-Nodejs-MySQL-To-do-list-%EB%A7%8C%EB%93%A4%EA%B8%B0-4-Express%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Building-a-CRUD-API-with-Express)
 
