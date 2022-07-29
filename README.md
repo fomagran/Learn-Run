@@ -341,6 +341,10 @@
 
 # 🦠 Node.js
 
+- [Sequelize로 C.R.U.D 구현해 보기 (feat. MySQL)](https://fomaios.tistory.com/entry/Nodejs-Sequelize%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%B4-%EB%B3%B4%EA%B8%B0-feat-MySQL)
+
+- [Sequelize란? (feat. ORM)](https://fomaios.tistory.com/entry/Nodejs-Sequelize%EB%9E%80-feat-ORM)
+
 - [실시간 채팅앱 만들어보기 1 - Websocket 이용하여 백엔드 구현하기 (feat. Websocket) (Build a real-time chatapp 1 - Implement backend with websocket)](https://fomaios.tistory.com/entry/Nodejs-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B1%84%ED%8C%85%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-Websocket-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-feat-Websocket-Build-a-real-time-chatapp-1-Implement-backend-with-websocket)
 
 - [React Native + Node.js + MySQL To do list 만들기 4 - Express로 CRUD 구현하기 (Building a CRUD API with Express)](https://fomaios.tistory.com/entry/Nodejs-React-Native-Nodejs-MySQL-To-do-list-%EB%A7%8C%EB%93%A4%EA%B8%B0-4-Express%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Building-a-CRUD-API-with-Express)
