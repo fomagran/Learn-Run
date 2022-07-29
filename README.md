@@ -409,7 +409,9 @@
 
 - [AVL 트리 구현해보기 (feat. Swift)](https://fomaios.tistory.com/entry/Data-Structure-AVL-%ED%8A%B8%EB%A6%AC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EA%B8%B0-feat-Swift)   
 
-- [B-Tree란?](https://fomaios.tistory.com/entry/Data-Structure-B-Tree%EB%9E%80)
+- [B-Tree란?](https://fomaios.tistory.com/entry/Data-Structure-B-Tree%EB%9E%80)  
+
+- [Trie란? (feat. 이론)](https://fomaios.tistory.com/entry/Data-Structure-Trie%EB%9E%80-feat-%EC%9D%B4%EB%A1%A0)
 
 # 💻 Computer Science
 
