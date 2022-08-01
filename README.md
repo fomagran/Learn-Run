@@ -343,6 +343,10 @@
 
 # 🦠 Node.js
 
+- [Prisma CRUD 구현해 보기 (feat Prisma Studio)](https://fomaios.tistory.com/entry/Nodejs-Prisma-CRUD-%EA%B5%AC%ED%98%84%ED%95%B4-%EB%B3%B4%EA%B8%B0-feat-Prisma-Studio)
+
+- [Prisma란? (feat. 사용해야 되는 이유)](https://fomaios.tistory.com/entry/Nodejs-Prisma%EB%9E%80-feat-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+
 - [TypeORM로 CRUD 구현해 보기 (feat. MySQL)](https://fomaios.tistory.com/entry/Nodejs-TypeORM%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%B4-%EB%B3%B4%EA%B8%B0-feat-MySQL)
 
 - [TypeORM이란? (feat. ORM Library)](https://fomaios.tistory.com/entry/Nodejs-TypeORM%EC%9D%B4%EB%9E%80-feat-Typescript-ORM-Library)
