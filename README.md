@@ -343,6 +343,10 @@
 
 # 🦠 Node.js
 
+- [TypeORM로 CRUD 구현해 보기 (feat. MySQL)](https://fomaios.tistory.com/entry/Nodejs-TypeORM%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%B4-%EB%B3%B4%EA%B8%B0-feat-MySQL)
+
+- [TypeORM이란? (feat. ORM Library)](https://fomaios.tistory.com/entry/Nodejs-TypeORM%EC%9D%B4%EB%9E%80-feat-Typescript-ORM-Library)
+
 - [Sequelize로 C.R.U.D 구현해 보기 (feat. MySQL)](https://fomaios.tistory.com/entry/Nodejs-Sequelize%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%B4-%EB%B3%B4%EA%B8%B0-feat-MySQL)
 
 - [Sequelize란? (feat. ORM)](https://fomaios.tistory.com/entry/Nodejs-Sequelize%EB%9E%80-feat-ORM)
