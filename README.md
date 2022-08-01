@@ -1,6 +1,8 @@
 # 💻 Fomagran Blog Post
 # 🍎 iOS
 
+- [특정 부분만 투명하게 만들기 (feat. fillRule, evenOdd)](https://fomaios.tistory.com/entry/iOSUI-%ED%8A%B9%EC%A0%95-%EB%B6%80%EB%B6%84%EB%A7%8C-%ED%88%AC%EB%AA%85%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0-feat-fillRule-evenOdd)
+
 - [UIBezierPath 쉽게 사용하기 (feat. EasierPath)
 ](https://fomaios.tistory.com/entry/iOSUI-UIBezierPath-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-feat-EasierPath)
 
