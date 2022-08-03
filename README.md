@@ -282,6 +282,10 @@
 
 # 📱 React Native
 
+- [Redux를 이용해 Counter 앱 만들어 보기 (feat. Typescript)](https://fomaios.tistory.com/entry/React-Native-Redux%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-Counter-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-feat-Typescript)
+
+- [Redux란? (feat. Flux)](https://fomaios.tistory.com/entry/React-Native-Redux%EB%9E%80)
+
 - [실시간 채팅앱 만들어보기 2 - Websocket 이용하여 프론트 구현하기 (Build a real-time chatapp 1 - Implement frontend with websocket)](https://fomaios.tistory.com/entry/React-Native-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B1%84%ED%8C%85%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-Websocket-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Build-a-real-time-chatapp-1-Implement-frontend-with-websocket)
 
 - [React Native + Node.js + MySQL To do list 만들기 5 - Axios 이용하여 CRUD 구현하기 (Implementing a api with Axios)](https://fomaios.tistory.com/entry/React-Native-React-Native-Nodejs-MySQL-To-do-list-%EB%A7%8C%EB%93%A4%EA%B8%B0-5-Axios-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Implementing-a-api-with-Axios)
