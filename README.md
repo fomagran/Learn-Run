@@ -282,6 +282,8 @@
 
 # 📱 React Native
 
+- [RTK-Query로 서버와 통신하기 (feat. Typescript)](https://fomaios.tistory.com/entry/React-Native-RTK-Query%EB%A1%9C-%EC%84%9C%EB%B2%84%EC%99%80-%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0-feat-Typescript)
+
 - [Redux-Toolkit이란? (feat. 기존 Redux와 비교)](https://fomaios.tistory.com/entry/React-Native-Redux-Toolkit%EC%9D%B4%EB%9E%80)
 
 - [Redux를 이용해 Counter 앱 만들어 보기 (feat. Typescript)](https://fomaios.tistory.com/entry/React-Native-Redux%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-Counter-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-feat-Typescript)
