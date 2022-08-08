@@ -1164,7 +1164,11 @@
  
  - [Find Largest Value in Each Tree Row](https://fomaios.tistory.com/entry/Swift-LeetCode-Find-Largest-Value-in-Each-Tree-Row-Medium)   
  
- - [Validate Binary Search Tree](https://fomaios.tistory.com/entry/Swiftt-Validate-Binary-Search-Tree-Medium)
+ - [Validate Binary Search Tree](https://fomaios.tistory.com/entry/Swiftt-Validate-Binary-Search-Tree-Medium)   
+
+ - [House Robber](https://fomaios.tistory.com/entry/Swift-LeetCode-House-Robber-Medium)
+
+ - [House Robber II](https://fomaios.tistory.com/entry/Swift-LeetCode-House-Robber-II-Medium)
 
 ### Hard
 
@@ -1187,6 +1191,8 @@
  - [Edit Distance](https://fomaios.tistory.com/entry/Swift-LeetCode-Edit-Distance-Hard)   
 
  - [N-Queens](https://fomaios.tistory.com/entry/Swift-LeetCode-N-Queens-Hard)   
+
+ - [Largest Rectangle Area](https://fomaios.tistory.com/entry/Swift-LeetCode-Largest-Rectangle-Area-Hard)
 
 ## HackerRank
 
