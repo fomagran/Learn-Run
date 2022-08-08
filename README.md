@@ -1077,7 +1077,9 @@
  
  - [Binary Tree Inorder Traversal](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Inorder-Traversal-Easy)   
  
- - [Contains Duplicate](https://fomaios.tistory.com/entry/Swift-LeetCode-Contains-Duplicate-Easy)
+ - [Contains Duplicate](https://fomaios.tistory.com/entry/Swift-LeetCode-Contains-Duplicate-Easy)   
+ 
+ - [Valid Anagram](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Anagram-Easy)
 
 ### Medium
 
