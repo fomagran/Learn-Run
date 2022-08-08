@@ -1075,7 +1075,9 @@
 
  - [Maximum Subarray](https://fomaios.tistory.com/entry/Swift-LeetCode-Maximum-Subarray-Easy)   
  
- - [Binary Tree Inorder Traversal](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Inorder-Traversal-Easy)
+ - [Binary Tree Inorder Traversal](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Inorder-Traversal-Easy)   
+ 
+ - [Contains Duplicate](https://fomaios.tistory.com/entry/Swift-LeetCode-Contains-Duplicate-Easy)
 
 ### Medium
 
