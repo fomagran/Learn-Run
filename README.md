@@ -282,6 +282,10 @@
 
 # 📱 React Native
 
+- [RTK-Query 파라미터에 맞게 특정 데이터만 불러오기(Get specific data by parameter using RTK-query)](https://fomaios.tistory.com/entry/React-Native-RTK-Query-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%97%90-%EB%A7%9E%EA%B2%8C-%ED%8A%B9%EC%A0%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%8C-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0Get-specific-data-by-parameter-using-RTK-query)
+
+- [useNavigation와 useRoute 이용해서 화면 이동하고 데이터 전달하기 (Move and Pass data between two screens using Hooks)](https://fomaios.tistory.com/entry/React-Native-useNavigation%EC%99%80-useRoute-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%99%94%EB%A9%B4-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B3%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0-Move-and-Pass-data-between-two-screens-using-Hooks)
+
 - [ChatApp Socket.io Room 적용하기 (feat. TypeScript)](https://fomaios.tistory.com/entry/React-Native-Socketio%EB%A1%9C-Room-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-feat-TypeScript)
 
 - [RTK-Query로 서버와 통신하기 (feat. Typescript)](https://fomaios.tistory.com/entry/React-Native-RTK-Query%EB%A1%9C-%EC%84%9C%EB%B2%84%EC%99%80-%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0-feat-Typescript)
