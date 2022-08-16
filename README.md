@@ -1122,7 +1122,6 @@
 - [Search in Rotated Sorted Array](https://fomaios.tistory.com/entry/Swift-LeetCode-Search-in-Rotated-Sorted-Array)   
 
 - [Find First and Last Position of Element in Sorted Array](https://fomaios.tistory.com/entry/Swift-LeetCode-Find-First-and-Last-Position-of-Element-in-Sorted-Array)   
-
 - [Combination Sum](https://fomaios.tistory.com/manage/newpost/754?type=post&returnURL=https%3A%2F%2Ffomaios.tistory.com%2Fmanage%2Fposts%2F)   
 
 - [Swap Nodes In Pairs](https://fomaios.tistory.com/entry/Swift-LeetCode-Swap-Nodes-In-Pairs-Medium)   
@@ -1188,7 +1187,9 @@
  
  - [Product of Array Except Self](https://fomaios.tistory.com/entry/Swift-LeetCode-Product-of-Array-Except-Self)   
  
- - [Valid Sudoku](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Sudoku-Medium)
+ - [Valid Sudoku](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Sudoku-Medium)   
+ 
+ - [Two Sum II](https://fomaios.tistory.com/entry/Swift-LeetCode-Two-Sum-II-Medium)
 
 ### Hard
 
