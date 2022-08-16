@@ -1184,7 +1184,9 @@
  
  - [Top K Frequent Elements](https://fomaios.tistory.com/entry/Swift-LeetCode-Top-K-Frequent-Elements-Medium)   
  
- - [Product of Array Except Self](https://fomaios.tistory.com/entry/Swift-LeetCode-Product-of-Array-Except-Self)
+ - [Product of Array Except Self](https://fomaios.tistory.com/entry/Swift-LeetCode-Product-of-Array-Except-Self)   
+ 
+ - [Valid Sudoku](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Sudoku-Medium)
 
 ### Hard
 
