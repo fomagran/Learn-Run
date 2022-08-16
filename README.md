@@ -1087,7 +1087,9 @@
  
  - [Contains Duplicate](https://fomaios.tistory.com/entry/Swift-LeetCode-Contains-Duplicate-Easy)   
  
- - [Valid Anagram](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Anagram-Easy)
+ - [Valid Anagram](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Anagram-Easy)   
+ 
+ - [Valid Palindrome](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Palindrome-Easy)
 
 ### Medium
 
