@@ -1196,6 +1196,8 @@
  - [Two Sum II](https://fomaios.tistory.com/entry/Swift-LeetCode-Two-Sum-II-Medium)
  
   - [Longest Repeating Character](https://fomaios.tistory.com/entry/Swift-LeetCode-Longest-Repeating-Character-Medium)
+  
+  - [Permutation in String](https://fomaios.tistory.com/entry/Swift-LeetCode-Permutation-in-String-Medium)
 
 ### Hard
 
