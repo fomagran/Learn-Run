@@ -726,6 +726,8 @@
  
 ### 1단계   
 
+- [2022 KAKAO TECH INTERNSHIP 성격 유형 검사하기](https://fomaios.tistory.com/entry/Swift-2022-KAKAO-TECH-INTERNSHIP-%EC%84%B1%EA%B2%A9-%EC%9C%A0%ED%98%95-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+
 - [2022 KAKAO BLIND RECUITMENT 신고 결과 받기](https://fomaios.tistory.com/entry/Swift-2022-KAKAO-BLIND-RECRUITMENT-%EC%8B%A0%EA%B3%A0-%EA%B2%B0%EA%B3%BC-%EB%B0%9B%EA%B8%B0)
 
 - [2021 KAKAO INTERNSHIP 숫자 문자열과 영단어](https://fomaios.tistory.com/entry/Swift-2021-KAKAO-INTERNSHIP-%EC%88%AB%EC%9E%90-%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC-%EC%98%81%EB%8B%A8%EC%96%B4)  
@@ -829,6 +831,7 @@
 
 ### 2단계
 
+- [2022 KAKAO TECH INTERNSHIP 두 큐 합 같게 만들기](https://fomaios.tistory.com/entry/Swift-2022-KAKAO-TECH-INTERNSHIP-%EB%91%90-%ED%81%90-%ED%95%A9-%EA%B0%99%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 - [2022 KAKAO BLIND RECUITMENT 양궁 대회](https://fomaios.tistory.com/entry/Swift-2022-KAKAO-BLIND-RECRUITMENT-%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C)
 
