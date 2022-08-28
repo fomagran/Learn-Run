@@ -960,6 +960,8 @@
 
 ### 3단계
 
+- [2022 KAKAO TECH INTERNSHIP 등산코스 정하기](https://fomaios.tistory.com/entry/Swift-2022-KAKAO-TECH-INTERNSHIP-%EB%93%B1%EC%82%B0%EC%BD%94%EC%8A%A4-%EC%A0%95%ED%95%98%EA%B8%B0)
+
 - [2022 KAKAO TECH INTERNSHIP 코딩 테스트 공부](https://fomaios.tistory.com/entry/Swift-2022-KAKAO-TECH-INTERNSHIP-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B3%B5%EB%B6%80)
 
 - [2022 KAKAO BLIND RECUITMENT 사라지는 발판](https://fomaios.tistory.com/entry/Swift-2022-KAKAO-BLIND-RECRUITMENT-%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%EB%B0%9C%ED%8C%90)
