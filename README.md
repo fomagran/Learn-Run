@@ -1204,7 +1204,9 @@
  
   - [Longest Repeating Character](https://fomaios.tistory.com/entry/Swift-LeetCode-Longest-Repeating-Character-Medium)
   
-  - [Permutation in String](https://fomaios.tistory.com/entry/Swift-LeetCode-Permutation-in-String-Medium)
+  - [Permutation in String](https://fomaios.tistory.com/entry/Swift-LeetCode-Permutation-in-String-Medium)   
+  
+  - [Min Stack](https://fomaios.tistory.com/entry/Swift-LeetCode-Min-Stack-Medium)
 
 ### Hard
 
