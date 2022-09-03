@@ -1209,6 +1209,8 @@
   - [Permutation in String](https://fomaios.tistory.com/entry/Swift-LeetCode-Permutation-in-String-Medium)   
   
   - [Min Stack](https://fomaios.tistory.com/entry/Swift-LeetCode-Min-Stack-Medium)
+  
+  - [Daily Temperatures](https://fomaios.tistory.com/entry/Swift-LeetCode-Daily-Temperatures-Medium)
 
 ### Hard
 
@@ -1253,18 +1255,3 @@
 - [Plus Minus](https://fomaios.tistory.com/entry/Swift-HackerRank-Plus-Minus)   
 
 - [Staricase](https://fomaios.tistory.com/entry/SwiftJS-HackerRank-Staircase)
-     
-         
-     
-    
-        
-      
- 
-  
-   
-  
-  
-      
-  
-  
- 
