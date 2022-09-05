@@ -1211,6 +1211,8 @@
   - [Min Stack](https://fomaios.tistory.com/entry/Swift-LeetCode-Min-Stack-Medium)
   
   - [Daily Temperatures](https://fomaios.tistory.com/entry/Swift-LeetCode-Daily-Temperatures-Medium)
+  
+  - [Car Fleet](https://fomaios.tistory.com/entry/Swift-LeetCode-Car-Fleet-Medium)
 
 ### Hard
 
