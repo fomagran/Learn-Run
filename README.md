@@ -1103,6 +1103,8 @@
  - [Valid Palindrome](https://fomaios.tistory.com/entry/Swift-LeetCode-Valid-Palindrome-Easy)
  
  - [Evaluate Reverse Polish Notation](https://fomaios.tistory.com/entry/Swift-LeetCode-Evaluate-Reverse-Polish-Notation-Medium)
+ 
+ - [Binary Search](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Search-Easy)
 
 ### Medium
 
