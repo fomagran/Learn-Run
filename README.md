@@ -1215,6 +1215,8 @@
   - [Daily Temperatures](https://fomaios.tistory.com/entry/Swift-LeetCode-Daily-Temperatures-Medium)
   
   - [Car Fleet](https://fomaios.tistory.com/entry/Swift-LeetCode-Car-Fleet-Medium)
+  
+  - [KoKo Eating Bananas](https://fomaios.tistory.com/entry/Swift-LeetCode-KoKo-Eating-Bananas-Medium)
 
 ### Hard
 
