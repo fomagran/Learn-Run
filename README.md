@@ -1217,6 +1217,8 @@
   - [Car Fleet](https://fomaios.tistory.com/entry/Swift-LeetCode-Car-Fleet-Medium)
   
   - [KoKo Eating Bananas](https://fomaios.tistory.com/entry/Swift-LeetCode-KoKo-Eating-Bananas-Medium)
+  
+  - [Find Minimum in Rotated Sorted Array](https://fomaios.tistory.com/entry/Find-Minimum-in-Rotated-Sorted-Array)
 
 ### Hard
 
