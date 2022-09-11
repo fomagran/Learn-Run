@@ -1218,7 +1218,9 @@
   
   - [KoKo Eating Bananas](https://fomaios.tistory.com/entry/Swift-LeetCode-KoKo-Eating-Bananas-Medium)
   
-  - [Find Minimum in Rotated Sorted Array](https://fomaios.tistory.com/entry/Find-Minimum-in-Rotated-Sorted-Array)
+  - [Find Minimum in Rotated Sorted Array](https://fomaios.tistory.com/entry/Swift-LeetCode-Find-Minimum-in-Rotated-Sorted-Array)
+  
+  - [Time Based Key-Value Store](https://fomaios.tistory.com/entry/Swift-LeetCode-Time-Based-Key-Value-Store-Medium)
 
 ### Hard
 
