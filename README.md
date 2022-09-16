@@ -1225,6 +1225,8 @@
   - [Time Based Key-Value Store](https://fomaios.tistory.com/entry/Swift-LeetCode-Time-Based-Key-Value-Store-Medium)
   
   - [Reorder List](https://fomaios.tistory.com/entry/Swift-LeetCode-Reorder-List-Medium)
+  
+  - [Copy List with Random Pointer](https://fomaios.tistory.com/entry/Swift-LeetCode-Copy-List-with-Random-Pointer-Medium)
 
 ### Hard
 
