@@ -398,6 +398,8 @@
 
 # 🧐 Algorithm 
 
+- [Floyd's Cycle Detection이란? (feat. Linked List)](https://fomaios.tistory.com/entry/Algorithm-Floyds-Cycle-Detection-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80)
+
 - [동적 계획법(Dynamic Programming)이란?](https://fomaios.tistory.com/entry/Algorithm-%EB%8F%99%EC%A0%81-%EA%B3%84%ED%9A%8D%EB%B2%95Dynamic-Programming%EC%9D%B4%EB%9E%80)
 
 - [플로이드 와샬(Floyd Warshall) 알고리즘이란?](https://fomaios.tistory.com/entry/Algorithm-%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%99%80%EC%83%ACFloyd-Warshall-%EC%9D%B4%EB%9E%80?category=898208)   
