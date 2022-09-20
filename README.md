@@ -1232,6 +1232,8 @@
   
   - [Copy List with Random Pointer](https://fomaios.tistory.com/entry/Swift-LeetCode-Copy-List-with-Random-Pointer-Medium)
 
+ -  [Find the Duplicate Number](https://fomaios.tistory.com/entry/Swift-LeetCode-Find-the-Duplicate-Number-Medium)
+
 ### Hard
 
  - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)   
