@@ -398,6 +398,8 @@
 
 # 🧐 Algorithm 
 
+- [LRU(Least Recently Used) 알고리즘이란? (feat. 페이지 교체 알고리즘)](https://fomaios.tistory.com/entry/Algorithm-LRULeast-Recently-Used-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80-feat-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
 - [Floyd's Cycle Detection이란? (feat. Linked List)](https://fomaios.tistory.com/entry/Algorithm-Floyds-Cycle-Detection-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80)
 
 - [동적 계획법(Dynamic Programming)이란?](https://fomaios.tistory.com/entry/Algorithm-%EB%8F%99%EC%A0%81-%EA%B3%84%ED%9A%8D%EB%B2%95Dynamic-Programming%EC%9D%B4%EB%9E%80)
