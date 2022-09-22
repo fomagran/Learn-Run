@@ -1235,6 +1235,8 @@
   - [Copy List with Random Pointer](https://fomaios.tistory.com/entry/Swift-LeetCode-Copy-List-with-Random-Pointer-Medium)
 
  -  [Find the Duplicate Number](https://fomaios.tistory.com/entry/Swift-LeetCode-Find-the-Duplicate-Number-Medium)
+ 
+ -  [LRU Cache](https://fomaios.tistory.com/entry/Swift-LeetCode-LRU-Cache-Medium)
 
 ### Hard
 
