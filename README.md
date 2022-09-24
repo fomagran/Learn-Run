@@ -1114,6 +1114,8 @@
  
  - [Linked List Cycle](https://fomaios.tistory.com/entry/Swift-LeetCode-Linked-List-Cycle-Easy)
 
+ - [Invert Binary Tree](https://fomaios.tistory.com/m/entry/Swift-LeetCode-Invert-Binary-Tree)
+
 ### Medium
 
 - [3Sum](https://fomaios.tistory.com/entry/LeetCode-3Sum)    
