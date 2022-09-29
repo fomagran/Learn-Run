@@ -1115,6 +1115,8 @@
  - [Linked List Cycle](https://fomaios.tistory.com/entry/Swift-LeetCode-Linked-List-Cycle-Easy)
 
  - [Invert Binary Tree](https://fomaios.tistory.com/m/entry/Swift-LeetCode-Invert-Binary-Tree)
+ 
+ - [Maximum Depth of Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Maximum-Depth-of-Binary-Tree)
 
 ### Medium
 
