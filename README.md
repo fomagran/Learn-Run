@@ -1117,6 +1117,8 @@
  - [Invert Binary Tree](https://fomaios.tistory.com/m/entry/Swift-LeetCode-Invert-Binary-Tree)
  
  - [Maximum Depth of Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Maximum-Depth-of-Binary-Tree)
+ 
+ - [Balanced Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Balanced-Binary-Tree-Easy)
 
 ### Medium
 
