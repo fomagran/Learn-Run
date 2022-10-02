@@ -1121,6 +1121,8 @@
  - [Balanced Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Balanced-Binary-Tree-Easy)
  
  - [Diameter of Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Diameter-of-Binary-Tree-Easy)
+
+ - [Same Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Same-Tree-Easy)
  
 ### Medium
 
