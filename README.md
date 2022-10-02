@@ -1119,7 +1119,9 @@
  - [Maximum Depth of Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Maximum-Depth-of-Binary-Tree)
  
  - [Balanced Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Balanced-Binary-Tree-Easy)
-
+ 
+ - [Diameter of Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Diameter-of-Binary-Tree-Easy)
+ 
 ### Medium
 
 - [3Sum](https://fomaios.tistory.com/entry/LeetCode-3Sum)    
