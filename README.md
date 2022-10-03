@@ -1249,6 +1249,8 @@
  -  [Find the Duplicate Number](https://fomaios.tistory.com/entry/Swift-LeetCode-Find-the-Duplicate-Number-Medium)
  
  -  [LRU Cache](https://fomaios.tistory.com/entry/Swift-LeetCode-LRU-Cache-Medium)
+ 
+ -  [Lowest Common Ancestor of a Binary Search Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Lowest-Common-Ancestor-of-a-Binary-Search-Tree)
 
 ### Hard
 
