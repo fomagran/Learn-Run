@@ -1251,6 +1251,8 @@
  -  [LRU Cache](https://fomaios.tistory.com/entry/Swift-LeetCode-LRU-Cache-Medium)
  
  -  [Lowest Common Ancestor of a Binary Search Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Lowest-Common-Ancestor-of-a-Binary-Search-Tree)
+ 
+ -  [Binary Tree Level Order Traversal](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Level-Order-Traversal)
 
 ### Hard
 
