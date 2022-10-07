@@ -1255,6 +1255,8 @@
  -  [Binary Tree Level Order Traversal](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Level-Order-Traversal)
  
  -  [Binary Tree Right Side View](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Right-Side-View-Medium)
+ 
+ -  [Count Good Nodes in Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Count-Good-Nodes-in-Binary-Tree-Medium)
 
 ### Hard
 
