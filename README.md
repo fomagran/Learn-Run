@@ -1257,6 +1257,8 @@
  -  [Binary Tree Right Side View](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Right-Side-View-Medium)
  
  -  [Count Good Nodes in Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Count-Good-Nodes-in-Binary-Tree-Medium)
+ 
+ -  [Kth Smallest Element in a BST](https://fomaios.tistory.com/entry/Swift-LeetCode-Kth-Smallest-Element-in-a-BST-Medium)
 
 ### Hard
 
