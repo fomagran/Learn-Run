@@ -1259,6 +1259,8 @@
  -  [Count Good Nodes in Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Count-Good-Nodes-in-Binary-Tree-Medium)
  
  -  [Kth Smallest Element in a BST](https://fomaios.tistory.com/entry/Swift-LeetCode-Kth-Smallest-Element-in-a-BST-Medium)
+ 
+ -  [Construct Binary Tree from Preorder and Inorder Traversal](https://fomaios.tistory.com/entry/Swift-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-Medium)
 
 ### Hard
 
