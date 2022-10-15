@@ -1289,6 +1289,8 @@
  - [Sliding Window Maximum](https://fomaios.tistory.com/entry/Swift-LeetCode-Sliding-Window-Maximum-Hard)
  
  - [Binary Tree Maximum Path Sum](https://fomaios.tistory.com/entry/Swift-LeetCode-Binary-Tree-Maximum-Path-Sum-Hard)
+ 
+ - [Serialize and Deserialize Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Serialize-and-Deserialize-Binary-Tree-Hard)
 
 ## HackerRank
 
