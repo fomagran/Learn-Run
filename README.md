@@ -451,6 +451,8 @@
 
 - [Trie란? (feat. 이론)](https://fomaios.tistory.com/entry/Data-Structure-Trie%EB%9E%80-feat-%EC%9D%B4%EB%A1%A0)
 
+- [트리 순회(Tree Traversal)에 대해 알아보기(feat. Inorder, Preorder, Postorder)](https://fomaios.tistory.com/m/entry/Algorithm-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8CTree-Traversal%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0feat-Inorder-Preorder-Postorder)
+
 # 💻 Computer Science
 
  - [SOLID 원칙이란?](https://fomaios.tistory.com/entry/CS-%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4%EB%9E%80-featiOS-%EA%B0%9C%EB%B0%9C%EC%9E%90)  
