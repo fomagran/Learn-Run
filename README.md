@@ -1263,6 +1263,7 @@
  -  [Kth Smallest Element in a BST](https://fomaios.tistory.com/entry/Swift-LeetCode-Kth-Smallest-Element-in-a-BST-Medium)
  
  -  [Construct Binary Tree from Preorder and Inorder Traversal](https://fomaios.tistory.com/entry/Swift-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-Medium)
+ - [Design Add and Search Words Data Structure](https://medium.com/@fomagran/swift-leetcode-design-add-and-search-words-data-structure-7fa115772a54)
 
 ### Hard
 
