@@ -398,6 +398,8 @@
 
 # 🧐 Algorithm 
 
+- [Quick Select란? (feat. K번째 작은 값 찾기)](https://fomaios.tistory.com/entry/Algorithm-Quick-Select%EB%9E%80-feat-K%EB%B2%88%EC%A7%B8-%EC%9E%91%EC%9D%80-%EA%B0%92-%EC%B0%BE%EA%B8%B0)
+
 - [LRU(Least Recently Used) 알고리즘이란? (feat. 페이지 교체 알고리즘)](https://fomaios.tistory.com/entry/Algorithm-LRULeast-Recently-Used-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80-feat-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 - [Floyd's Cycle Detection이란? (feat. Linked List)](https://fomaios.tistory.com/entry/Algorithm-Floyds-Cycle-Detection-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80)
