@@ -1267,6 +1267,7 @@
  -  [Construct Binary Tree from Preorder and Inorder Traversal](https://fomaios.tistory.com/entry/Swift-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-Medium)
  - [Design Add and Search Words Data Structure](https://medium.com/@fomagran/swift-leetcode-design-add-and-search-words-data-structure-7fa115772a54)
 
+ - [Task Scheduler](https://fomaios.tistory.com/m/entry/Swift-LeetCode-Task-Scheduler-Medium)
 ### Hard
 
  - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)   
