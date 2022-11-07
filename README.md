@@ -1130,6 +1130,8 @@
  
  - [Subtree of Another Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Subtree-of-Another-Tree-Easy)
  
+ - [Symmetric Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Symmetric-Tree-Easy)
+ 
 ### Medium
 
 - [3Sum](https://fomaios.tistory.com/entry/LeetCode-3Sum)    
