@@ -1273,6 +1273,8 @@
  
  - [Last Stone Weight](https://fomaios.tistory.com/entry/Swift-LeetCode-Last-Stone-Weight-Medium)
  
+ - [Design Twitter](https://fomaios.tistory.com/entry/Swift-LeetCode-Design-Twitter-Medium)
+ 
 ### Hard
 
  - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)   
