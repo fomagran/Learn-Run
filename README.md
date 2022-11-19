@@ -1309,7 +1309,7 @@
  
  - [Serialize and Deserialize Binary Tree](https://fomaios.tistory.com/entry/Swift-LeetCode-Serialize-and-Deserialize-Binary-Tree-Hard)
  
- - [Word Search II]()
+ - [Word Search II](https://fomaios.tistory.com/entry/Swift-LeetCode-Word-Search-II-Hard)
  
  - [Find Median from Data Stream](https://fomaios.tistory.com/entry/Swift-LeetCode-Find-Median-from-Data-Stream-Hard)
 
